@@ -57,7 +57,7 @@ Telecom-Churn-Analysis/
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telecom-churn-analysis.git
+   git clone https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis
 
 pip install -r requirements.txt
 
