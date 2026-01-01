@@ -1,0 +1,12 @@
+
+---
+
+## 📄 requirements.txt (Draft)
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
